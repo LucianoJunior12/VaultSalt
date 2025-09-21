@@ -81,7 +81,7 @@ Para instalar o VaultSalt, siga os passos abaixo:
 
 ```bash
 # Clonar o repositório
-[git clone https://github.com/seu-usuario/vaultsalt.git](https://github.com/LucianoJunior12/VaultSalt.git)
+git clone https://github.com/LucianoJunior12/VaultSalt.git
 cd vaultsalt
 
 # Instalar as dependências
