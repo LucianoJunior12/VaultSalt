@@ -1,0 +1,3 @@
+cryptography==41.0.3
+argon2-cffi==22.3.0
+zstandard==0.21.0
