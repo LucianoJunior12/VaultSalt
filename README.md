@@ -75,4 +75,15 @@ Estimativa de tempo para força bruta (10⁸ tentativas por segundo):
 
 > Mesmo considerando ataques quânticos teóricos (Grover), senhas de 16+ caracteres continuam extremamente seguras.
 
+## 🛠 Instalação
+
+Para instalar o VaultSalt, siga os passos abaixo:
+
+```bash
+# Clonar o repositório
+git clone https://github.com/seu-usuario/vaultsalt.git
+cd vaultsalt
+
+# Instalar as dependências
+pip install -r requirements.txt
 
